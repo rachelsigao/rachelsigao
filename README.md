@@ -25,13 +25,13 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 🧰 Technical Skills  
 
 - **Linux Administration:** User & Group Management, File Permissions, SSH, Package Management, System Services, Process Management, Cron Jobs
-- **Networking:** TCP/IP, DNS, Route 53, VPC, Security Groups, Internet Gateway, NAT Gateway, Load Balancing
+- **Networking:** DNS, Route 53, VPC, Security Groups, Internet/ NAT Gateway, Load Balancing
 - **Infrastructure as Code:** Terraform
 - **Containers:** Docker
 - **Container Orchestration:** Kubernetes (Amazon EKS)
 - **CI/CD:** Jenkins, GitHub Actions
 - **Version Control:** Git, GitHub
-- **Monitoring & Logging:** Prometheus, Grafana, AWS CloudWatch, ELK Stack (Elasticsearch, Logstash, Kibana)
+- **Monitoring & Logging:** Prometheus, Grafana, AWS CloudWatch, ELK Stack
 - **Security & Scanning:** IAM, SonarQube, Trivy, DevSecOps Best Practices
 - **Databases:** MongoDB, MySQL, Redis, RabbitMQ
 - **Scripting & Programming:** Bash, Python (Fundamentals)
@@ -68,7 +68,6 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 🏆 Experience   
 
 ### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
-
 #### AWS Infrastructure & Linux Administration
 - Provisioned AWS EC2 instances and configured IAM, Security Groups, SSH,and Route 53 for secure infrastructure.
 - Administered Linux servers by managing users, groups, permissions,packages, services, and SSH access.
