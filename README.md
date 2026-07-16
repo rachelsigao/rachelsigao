@@ -68,11 +68,11 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 🏆 Experience   
 
 ### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
-#### AWS Infrastructure & Linux Administration
+**AWS Infrastructure & Linux Administration**
 - Provisioned AWS EC2 instances and configured IAM, Security Groups, SSH,and Route 53 for secure infrastructure.
 - Administered Linux servers by managing users, groups, permissions,packages, services, and SSH access.
 - Configured Nginx as a reverse proxy for a three-tier microservices applicationwith MongoDB, MySQL, Redis, and RabbitMQ.- Validated application connectivity and resolved Linux service issues throughlog analysis.
-#### Infrastructure Automation (Terraform)
+**Infrastructure Automation (Terraform)**
 - Provisioned AWS infrastructure using reusable Terraform modules following Infrastructure as Code (IaC).
 - Automated deployment of VPCs, subnets, EC2 instances, Security Groups,and IAM resources.
 - Managed Terraform state and resolved deployment failures caused by IAMpermissions and resource dependencies.
