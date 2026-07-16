@@ -76,13 +76,13 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 - Provisioned AWS infrastructure using reusable Terraform modules following Infrastructure as Code (IaC).
 - Automated deployment of VPCs, subnets, EC2 instances, Security Groups,and IAM resources.
 - Managed Terraform state and resolved deployment failures caused by IAMpermissions and resource dependencies.
-#### CI/CD Automation (Jenkins)
+**CI/CD Automation (Jenkins)**
 - Built Declarative Jenkins pipelines to automate build, testing, anddeployment.
 - Configured Jenkins Master-Agent architecture and integrated GitHub usingwebhooks.
 - Troubleshot build failures, validated deployments, and implemented rollbackstrategies.
-#### Docker & Kubernetes
+**Docker & Kubernetes**
 - Containerized applications using Docker and deployed workloads to AmazonEKS using Deployments, Services, ConfigMaps, and Secrets.- Performed rolling updates and resolved CrashLoopBackOff and image pullissues.
-#### Monitoring, Logging & Security
+**Monitoring, Logging & Security**
 - Configured Prometheus, Grafana, ELK Stack, and CloudWatch formonitoring, centralized logging, and observability.
 - Integrated SonarQube and Trivy into CI/CD pipelines for code quality andvulnerability scanning.
 - Performed root cause analysis for deployment and infrastructure issues usinglogs, dashboards, and system metrics.
