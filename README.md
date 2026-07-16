@@ -7,9 +7,6 @@
 # 👋 Hi, I'm Rachel Sigao Puvvala
 
 **Operations Specialist** | AWS DevOps | Terraform | Docker | Kubernetes | CI/CD 
-
-## 🌐 Socials
-
 <p align="left">
   <a href="mailto:rachelsigao@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/rachelsigao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -23,7 +20,6 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ---
 
 ## 🧰 Technical Skills  
-
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -81,7 +77,6 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 --- 
 
  ## 📊 GitHub Stats:
-
 ![](https://github-readme-stats.shion.dev/api?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rachelsigao&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
@@ -89,7 +84,6 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ---
 
 ## 🐍 GitHub Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachelsigao/rachelsigao/output/snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachelsigao/rachelsigao/output/snake.svg" />
