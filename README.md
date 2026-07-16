@@ -24,9 +24,6 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ## 🧰 Technical Skills  
 
-
-# 💻 Tech Stack:
-
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -52,8 +49,7 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
 </p>
 
-
-</p>
+---
 
 ## 🏆 Experience   
 
