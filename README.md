@@ -24,18 +24,8 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ## 🧰 Technical Skills  
 
-- **Linux Administration:** User & Group Management, File Permissions, SSH, Package Management, System Services, Process Management, Cron Jobs
-- **Networking:** DNS, Route 53, VPC, Security Groups, Internet/ NAT Gateway, Load Balancing
-- **Infrastructure as Code:** Terraform
-- **Containers:** Docker
-- **Container Orchestration:** Kubernetes (Amazon EKS)
-- **CI/CD:** Jenkins, GitHub Actions
-- **Version Control:** Git, GitHub
-- **Monitoring & Logging:** Prometheus, Grafana, AWS CloudWatch, ELK Stack
-- **Security & Scanning:** IAM, SonarQube, Trivy, DevSecOps Best Practices
-- **Databases:** MongoDB, MySQL, Redis, RabbitMQ
-- **Scripting & Programming:** Bash, Python (Fundamentals)
-- **Methodologies:** Agile, Scrum, Incident Management, Root Cause Analysis, Continuous Improvement
+
+# 💻 Tech Stack:
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -122,4 +112,7 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 -------  
  # 📊 GitHub Stats:
 
+![](https://github-readme-stats.shion.dev/api?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rachelsigao&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
