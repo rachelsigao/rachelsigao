@@ -67,7 +67,7 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ## 🏆 Experience   
 
-### 💻 AWS DevOps Intern - JoinDevOps (June 2015 - Present)
+### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
 
 #### AWS Infrastructure & Linux Administration
 - Provisioned AWS EC2 instances and configured IAM, Security Groups, SSH,and Route 53 for secure infrastructure.
@@ -88,12 +88,12 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 - Integrated SonarQube and Trivy into CI/CD pipelines for code quality andvulnerability scanning.
 - Performed root cause analysis for deployment and infrastructure issues usinglogs, dashboards, and system metrics.
 
-### 🎯 Operations Specialist - Amazon (December 2024 - May 2025)
+### 🎯 Operations Specialist - Amazon (Dec 2024 - May 2025)
 - Led quality and process improvement initiatives by analyzing operationaltrends, identifying recurring defects, and implementing preventive actions thatimproved workflow efficiency. - Partnered with policy, operations, and quality stakeholders during processlaunches to assess risks, validate operational readiness, and ensure smoothimplementation.
 - Developed and standardized SOPs, training materials, and knowledgedocumentation to improve process consistency and reduce operational errorsacross teams. 
 - Mentored team members through quality coaching, performance feedback,and knowledge-sharing sessions while promoting a continuous improvementand automation mindset.
 
-### 📈 Senior Operations Associate - Amazon (May 2023 - December 2024)
+### 📈 Senior Operations Associate - Amazon (May 2023 - Dec 2024)
 - Investigated process deviations and quality defects by performing detailedreviews, identifying root causes, and recommending corrective actions toprevent recurrence. 
 - Designed and maintained process documentation, SOPs, and onboardingresources, enabling faster knowledge transfer and consistent execution ofoperational procedures. 
 - Collaborated with cross-functional teams to validate process updates,support change implementation, and minimize operational risks duringrollouts. 
@@ -110,12 +110,11 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/rachelsigao/rachelsigao/snake-output/snake.svg" alt="Snake animation" />
 </picture>
 
--------  
+------- 
+ 
  # 📊 GitHub Stats:
 
 
