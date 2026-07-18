@@ -76,6 +76,13 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ---
 
+## Certifications
+
+DevOps Foundations: Continuous Delivery/Continuous Integration
+CompTIA | Issued: July 2026
+
+---
+ 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rachelsigao&theme=chartreuse-dark&hide_border=false)<br/>
