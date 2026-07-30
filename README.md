@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Rachel Sigao Puvvala
 
-**Ex-Operations Specialist at Amazon** | AWS DevOps | Terraform | Docker | Kubernetes | CI/CD
+**Ex-Operations Specialist - Amazon** | AWS DevOps | Terraform | Docker | Kubernetes | CI/CD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rachelsigao/)
 [![Gmail](https://img.shields.io/badge/Email-rachelsigao@gmail.com-red?logo=gmail&style=flat)](mailto:rachelsigao@gmail.com)
