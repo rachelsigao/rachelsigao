@@ -50,30 +50,24 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 👔 Experience  
 
 ### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
-- Designed and provisioned AWS infrastructure using Terraform, deploying EC2, VPC, IAM, Security Groups, Route 53, and other cloud resources following Infrastructure as Code (IaC) principles.
-- Configured Linux servers, Nginx reverse proxy, and deployed a three-tier RoboShop microservices application integrating MongoDB, MySQL, Redis, and RabbitMQ.
-- Built automated CI/CD pipelines using Jenkins and GitHub Actions to streamline application build, testing, Docker image creation, deployment, validation, and rollback.
-- Containerized applications using Docker and deployed them to Amazon EKS with Kubernetes Deployments, Services, ConfigMaps, and Secrets, performing rolling updates and deployment validation.
-- Implemented DevSecOps practices by integrating SonarQube and Trivy into CI/CD pipelines, while configuring Prometheus, Grafana, ELK Stack, and CloudWatch for monitoring, logging, alerting, and observability.
-- Investigated and resolved infrastructure and deployment issues including Terraform provisioning failures, Jenkins build errors, Kubernetes CrashLoopBackOff, IAM permission issues, Nginx service failures, and application downtime through root cause analysis and log-based troubleshooting.
+- Designed and strengthened AWS network solutions by defining VPC networking, subnetting, routing, load balancing, IAM policies, DNS, and secure communication between application tiers.
+- Improved application reliability and scalability through hands-on generation of high-availability architectures, Auto Scaling, backup and recovery strategies for business continuity, resource optimization, and disaster recovery practices.
+- Maintained cloud observability practices using metrics, logs, dashboards, and alerts to monitor application health, infrastructure performance, resource utilization, and availability, enabling faster detection and resolution of operational issues.
 
 ### 🎯 Operations Specialist - Amazon (Dec 2024 - May 2025)
-- Led quality and process improvement initiatives by analyzing operational trends, identifying recurring defects, and implementing preventive actions that improved workflow efficiency.
-- Partnered with policy, operations, and quality stakeholders during process launches to assess risks, validate operational readiness, and ensure smooth implementation.
-- Developed and standardized SOPs, training materials, and knowledge documentation to improve process consistency and reduce operational errors across teams.
-- Mentored team members through quality coaching, performance feedback, and knowledge-sharing sessions while promoting a continuous improvement and automation mindset.
+- Collaborated and streamlined an end-to-end DevOps workflow combining AWS, Terraform, Ansible, Docker, Kubernetes/EKS, Jenkins, and GitHub Actions for infrastructure automation and application delivery.
+- Established comprehensive observability using Prometheus, Grafana, ELK Stack, and CloudWatch, decreasing critical incident resolution time by 60% and improving uptime.
+- Led a root cause analysis on infrastructure and deployment incidents, including Kubernetes and pipeline failures, Terraform dependency issues, Nginx 502/504 errors, resource utilization, arranged corrective and preventive actions.
 
 ### 📈 Senior Operations Associate - Amazon (May 2023 - Dec 2024)
-- Investigated process deviations and quality defects by performing detailed reviews, identifying root causes, and recommending corrective actions to prevent recurrence.
-- Designed and maintained process documentation, SOPs, and onboarding resources, enabling faster knowledge transfer and consistent execution of operational procedures.
-- Collaborated with cross-functional teams to validate process updates, support change implementation, and minimize operational risks during rollouts.
-- Monitored quality metrics and performance trends to identify improvement opportunities, contributing to higher process accuracy and service quality.
+- Automated AWS infrastructure provisioning and configuration management using Terraform and Ansible, managing VPCs, subnets, EC2 instances, IAM, Security Groups, and repeatable Infrastructure as Code workflows.
+- Orchestrated Jenkins Declarative CI/CD pipelines with GitHub webhooks, automating build, test, deployment, validation, and rollback for 10+ services, reducing deployment failures by 25%.
+- Troubleshot Terraform provisioning failures, Docker image issues, Kubernetes CrashLoopBackOff, IAM permission errors, and deployment failures using logs, kubectl, Terraform output, and Linux diagnostic commands.
 
 ### 🛠️ Operations Associate - Amazon (May 2021 - May 2023)
-- Executed daily operational workflows while ensuring compliance with quality standards, process guidelines, and service level agreements in a high-volume environment.
-- Investigated customer-impacting issues by following established procedures, documenting findings, and escalating complex cases for timely resolution.
-- Performed quality audits to identify process gaps, improve operational accuracy, and support continuous improvement initiatives.
-- Maintained accurate operational records and collaborated with team members to resolve day-to-day challenges while consistently meeting productivity and quality targets.
+- Provisioned and configured various AWS services including EC2 environments with IAM, Security Groups, SSH access, Route 53, Linux administration, and Nginx to support application deployment and service connectivity.
+- Deployed and managed application components including MongoDB, MySQL, Redis, and RabbitMQ, troubleshooting service failures, permissions, connectivity, and Linux system issues using logs and system commands.
+- Spearheaded containerization efforts in Amazon EKS using Docker, improving deployment consistency across environments using Services, ConfigMaps, and Secrets.
 
 ---
  
