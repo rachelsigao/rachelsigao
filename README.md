@@ -76,12 +76,6 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 - Maintained accurate operational records and collaborated with team members to resolve day-to-day challenges while consistently meeting productivity and quality targets.
 
 ---
-
-## 📜 Certifications
-
-**DevOps Foundations: Continuous Delivery/Continuous Integration** - CompTIA | Issued: July 2026
-
----
  
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
