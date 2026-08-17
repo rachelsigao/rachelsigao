@@ -50,7 +50,7 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ## 👔 Experience  
 
 ### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
-- Specialized in containerized application delivery using Docker and Amazon EKS, working with Kubernetes Services, ConfigMaps, and Secrets while aquiring hands-on expertise in deployments, networking, and workload management.
+- Specialized in containerized application delivery using Docker and Amazon EKS, working with Kubernetes Services, ConfigMaps, and Secrets while acquiring hands-on expertise in deployments, networking, and workload management.
 - Streamlined end-to-end DevOps workflows across AWS, Terraform, Ansible, Docker, Kubernetes/EKS, Jenkins, and GitHub Actions, building practical expertise in Infrastructure as Code, CI/CD automation. 
 - Strengthened cloud reliability and troubleshooting capabilities through Prometheus, Grafana, ELK Stack, and CloudWatch observability; performed root cause analysis for Kubernetes, pipeline, Terraform, and Nginx 502/504 issues and contributed to HA, Auto Scaling, backup/recovery, resource optimization, and disaster recovery practices, reducing critical incident resolution time by 60%.
 
