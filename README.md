@@ -50,28 +50,44 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ## 👔 Experience  
 
-### 💻 AWS DevOps Intern - JoinDevOps (Jun 2015 - Present)
-- Specialized in containerization of application delivery using Docker and Amazon EKS, working with Kubernetes Services, ConfigMaps, and Secrets while acquiring hands-on expertise in deployments, networking, and workload management.
-- Streamlined end-to-end DevOps workflows across AWS, Terraform, Ansible, Docker, Kubernetes/EKS, Jenkins, and GitHub Actions, building practical expertise in Infrastructure as Code, CI/CD automation. 
-- Strengthened cloud reliability and troubleshooting capabilities through Prometheus, Grafana, ELK Stack, and CloudWatch observability; performed root cause analysis for Kubernetes, pipeline, Terraform, and Nginx 502/504 issues and contributed to HA, Auto Scaling, backup/recovery, resource optimization, and disaster recovery practices, reducing critical incident resolution time by 60%.
+### 💻 AWS DevOps Engineer Intern - JoinDevOps (Jun 2015 - Present)
+- Designed and operated containerized application delivery on Amazon EKS with Docker, managing Kubernetes Services, ConfigMaps, Secrets, deployments, networking, and workload lifecycle. 
+- Built end-to-end DevOps workflows across AWS, Terraform, Ansible, Docker, Kubernetes/EKS, Jenkins, and GitHub Actions, implementing Infrastructure as Code and automated CI/CD pipelines. 
+- Implemented observability with Prometheus, Grafana, ELK Stack, and CloudWatch; performed root-cause analysis on Kubernetes, Terraform, pipeline, and Nginx issues, and drove HA, Auto Scaling, and disaster-recovery practices that reduced critical incident resolution time by 60%. 
 
-### 🎯 Operations Specialist - Amazon (Dec 2024 - May 2025)
-- Provisioned and configured AWS environments using EC2, IAM, Security Groups, Route 53, Linux, SSH, and Nginx, while deploying and troubleshooting application services including MongoDB, MySQL, Redis, and RabbitMQ.
-- Implemented infrastructure provisioning and configuration management using Terraform and Ansible, managing VPCs, subnets, EC2 instances, IAM, and Security Groups through repeatable IaC workflows.
-- Built Jenkins Declarative CI/CD pipelines integrated with GitHub webhooks for build, test, deployment, validation, and rollback across 10+ services, reducing deployment failures by 25%; troubleshot Terraform, Docker, and Kubernetes deployment issues using logs, kubectl, and Linux diagnostic tools.
+### 🎯 Cloud Operations Specialist - Amazon (Dec 2024 - May 2025)
+- 
+•	Provisioned and maintained AWS production environments (EC2, IAM, Security Groups, Route 53, Linux, Nginx) supporting 4 environments and 10+ microservices, including MongoDB, MySQL, Redis, and RabbitMQ. 
+•	Implemented Infrastructure as Code and configuration management with Terraform and Ansible for VPCs, subnets, EC2, IAM, and Security Groups, reducing manual provisioning effort by approximately 70%. 
+•	Designed and operated Jenkins Declarative CI/CD pipelines with GitHub webhooks for build, test, deployment, validation, and rollback across 10+ microservices, reducing deployment failures by 25%.
 
-### 📈 Senior Operations Associate - Amazon (May 2023 - Dec 2024)
-- Managed AWS security and access controls using IAM users, roles, policies, IAM Identity Center, S3, and AWS Control Tower, applying least-privilege principles to support secure cloud operations.
-- Performed access reviews, collaborated for audit documentation, and security governance activities, strengthening compliance, access management, and controlled use of AWS resources.
-- Integrated GitHub-based development workflows with SonarQube code scanning, gaining hands-on experience with source control, code quality, and security practices within the software delivery lifecycle.
+### 📈 Senior Cloud Operations Associate - Amazon (May 2023 - Dec 2024)
+- Owned AWS security and access management (IAM users, roles, policies, IAM Identity Center, S3, AWS Control Tower), applying least-privilege principles and reducing over-privileged access incidents by approximately 40%.
+- Led regular access reviews, audit documentation, and security governance activities across production accounts, improving compliance audit readiness and cutting access-related review cycle time by 50%.
+- Integrated GitHub-based development workflows with SonarQube code scanning, embedding security and quality checks that reduced critical code vulnerabilities reaching production by an estimated 35%.
 
-### 🛠️ Operations Associate - Amazon (May 2021 - May 2023)
-- Monitored AWS infrastructure and application health using Amazon CloudWatch metrics, logs, dashboards, and threshold-based alerts, including Lambda and rate-limiting monitors, enabling proactive detection and resolution of operational issues.
-- Automated monitoring and operational workflows using Terraform and Slack integrations, improving alert visibility and enabling faster cross-team incident communication and response.
-- Analysed and developed foundational cloud operations expertise across AWS infrastructure monitoring, resource utilization, availability, addressed incident troubleshooting, and far-sighted operational support.
+### 🛠️ Cloud Operations Associate - Amazon (May 2021 - May 2023)
+- Monitored AWS infrastructure and application health using CloudWatch metrics, logs, dashboards, and threshold-based alerts (including Lambda and rate-limiting monitors), enabling proactive detection that reduced mean time to detect issues by approximately 45%. 
+- Automated monitoring and operational workflows with Terraform and Slack integrations, improving alert visibility and accelerating cross-team incident response time by 30%. 
+- Built foundational cloud operations expertise in infrastructure monitoring, resource utilization, availability management, and incident troubleshooting, supporting stable operations with 99% service availability.
+
+---
+
+## 📜 Certifications:
+- 
 
 ---
  
+---
+
+## 🎓 Education:
+- Master of Business Administration in Human Resources
+Jawaharlal Nehru Technological University, India | 2018 - 2020          
+- Bachelor of Engineering in Electronics and Communcation 
+Andhra University, India | 2014 - 2018 
+
+---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rachelsigao&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rachelsigao&theme=chartreuse-dark&hide_border=false)<br/>
