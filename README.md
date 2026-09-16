@@ -78,10 +78,8 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ---
  
 ## 🎓 Education:
-- **Master of Business Administration (MBA) in Human Resources**  
-  <div align="right">Jawaharlal Nehru Technological University, India | 2018 - 2020</div>
-- **Bachelor of Engineering (BE) in Electronics and Communication Engineering**  
-  <div align="right">Andhra University, India | 2014 - 2018</div>
+- **Master of Business Administration (MBA) in Human Resources** | Jawaharlal Nehru Technological University, India | 2018 - 2020
+- **Bachelor of Engineering (BE) in Electronics and Communication Engineering** | Andhra University, India | 2014 - 2018
 
 ---
 
