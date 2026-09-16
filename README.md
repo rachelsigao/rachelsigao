@@ -78,8 +78,6 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 
 ---
  
----
-
 ## 🎓 Education:
 - Master of Business Administration in Human Resources
 Jawaharlal Nehru Technological University, India | 2018 - 2020          
