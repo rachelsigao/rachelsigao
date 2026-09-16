@@ -56,10 +56,9 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 - Implemented observability with Prometheus, Grafana, ELK Stack, and CloudWatch; performed root-cause analysis on Kubernetes, Terraform, pipeline, and Nginx issues, and drove HA, Auto Scaling, and disaster-recovery practices that reduced critical incident resolution time by 60%. 
 
 ### 🎯 Cloud Operations Specialist - Amazon (Dec 2024 - May 2025)
-- 
-•	Provisioned and maintained AWS production environments (EC2, IAM, Security Groups, Route 53, Linux, Nginx) supporting 4 environments and 10+ microservices, including MongoDB, MySQL, Redis, and RabbitMQ. 
-•	Implemented Infrastructure as Code and configuration management with Terraform and Ansible for VPCs, subnets, EC2, IAM, and Security Groups, reducing manual provisioning effort by approximately 70%. 
-•	Designed and operated Jenkins Declarative CI/CD pipelines with GitHub webhooks for build, test, deployment, validation, and rollback across 10+ microservices, reducing deployment failures by 25%.
+- Provisioned and maintained AWS production environments (EC2, IAM, Security Groups, Route 53, Linux, Nginx) supporting 4 environments and 10+ microservices, including MongoDB, MySQL, Redis, and RabbitMQ. 
+- Implemented Infrastructure as Code and configuration management with Terraform and Ansible for VPCs, subnets, EC2, IAM, and Security Groups, reducing manual provisioning effort by approximately 70%. 
+- Designed and operated Jenkins Declarative CI/CD pipelines with GitHub webhooks for build, test, deployment, validation, and rollback across 10+ microservices, reducing deployment failures by 25%.
 
 ### 📈 Senior Cloud Operations Associate - Amazon (May 2023 - Dec 2024)
 - Owned AWS security and access management (IAM users, roles, policies, IAM Identity Center, S3, AWS Control Tower), applying least-privilege principles and reducing over-privileged access incidents by approximately 40%.
@@ -79,9 +78,9 @@ DevOps Enthusiast with practical experience in designing, deploying, automating,
 ---
  
 ## 🎓 Education:
-- Master of Business Administration in Human Resources
+- Master of Business Administration (MBA) in Human Resources 
 Jawaharlal Nehru Technological University, India | 2018 - 2020          
-- Bachelor of Engineering in Electronics and Communcation 
+- Bachelor of Engineering (BE) in Electronics and Communcation Engineering
 Andhra University, India | 2014 - 2018 
 
 ---
